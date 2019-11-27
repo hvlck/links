@@ -1,31 +1,47 @@
 # uls
 
-**U**seful **Links** and **S**oftware
+**U**seful **Links** and **S**ervices
 
 ## Table of Contents
 
 + [3D Printing](#three-d-printing)
 + [Analytics](#analytics)
-+ [Developer Tools](#dev-tools)
 + [Browser Extensions](#extensions)
++ [Developer Tools](#dev-tools)
++ [Education](#education)
++ [Feedback](#feedback)
 + [Images & Illustrations](#images-and-illustrations)
 + [Image Editing](#image-editing)
 + [Inspiration](#inspiration)
-+ [Interviews](#interviews)
-+ [Learning](#learning)
++ [Interviews and Case Studies](#interviews)
 + [Math](#math)
-+ [New Products](#new-products)
++ [New Products and People](#new-products-and-people)
 + [Office Software](#office)
++ [Open Source](#open-source)
 + [Other](#other)
 + [Self-Hosted](#self-hosted)
 + [Similar to this Repository](#similar)
++ [Startup-Related](#startup-related)
 + [Utility](#utility)
++ [Video](#video)
++ [Web](#web)
 + [Web Development](#web-development)
 + [Writing](#writing)
 
 ## 3D Printing
 
 [](#three-d-printing)
+
+### 3D Printing/Design
+
++ [Fusion360](https://www.autodesk.com/products/fusion-360/overview)
++ [TinkerCAD](https://www.tinkercad.com/)
+
+### 3D Printing/Files
+
++ [Thingiverse](https://www.thingiverse.com/)
+
+### 3D Printing/Other
 
 + [LayerKeep - 3D Projects with Version Control (Beta)](https://layerkeep.com/)
 
@@ -38,7 +54,14 @@
 + [Plausible](https://plausible.io/)
 + [Simple Analytics](https://simpleanalytics.com/)
 
+
+## Browser Extensions
+
+[](#extensions)
+
 ## Design
+
++ [colorsandfonts.com - Mutlipurpose design tools](https://colorsandfonts.com/)
 
 ### Design/Animations
 
@@ -46,12 +69,16 @@
 
 ### Design/Colors
 
++ [BrandColors](https://brandcolors.net/)
++ [ColorPicker - Desktop Color Picker App](https://colorpicker.crea-th.at/)
 + [Color Designer](https://colordesigner.io/)
 + [Color Influencer](https://colorinflu.com/)
++ [LOLColors - Curated Color Palettes](https://www.webdesignrankings.com/resources/lolcolors/)
 + [Picular](https://picular.co/)
 
 ### Design/Fonts
 
++ [Fontbase - Free Font Manager](https://fontba.se/)
 + [Google Fonts](https://fonts.google.com/)
 
 ### Design/Gradients
@@ -77,10 +104,34 @@
 [](#dev-tools)
 
 + [Public APIs](https://github.com/public-apis/public-apis)
++ [ToolsDB](https://toolsdb.dev/)
 
-## Browser Extensions
+## Education
 
-[](#extensions)
+[](#education)
+
++ [ClassCentral - Decide Which Online Course to Take](https://www.classcentral.com/)
+
+### Education/General
+
++ [edx.org](https://www.edx.org/)
++ [MIT OpenCourseware](https://ocw.mit.edu/index.htm)
++ [Yale Open Courses](https://oyc.yale.edu/)
+
+### Education/Programming
+
++ [CodeCademy](https://www.codecademy.com/)
++ [FreeCodeCamp](https://www.freecodecamp.org/)
+
+#### Education/Programming/Web Development
+
++ [The Odin Project](https://www.theodinproject.com/)
+
+## Feedback
+
+[](#feedback)
+
++ [webetter.tech](https://www.webetter.tech/)
 
 ## Image Editing
 
@@ -104,6 +155,7 @@
 + [Free Stocks](https://freestocks.org/)
 + [generated.photos](https://generated.photos/)
 + [Gratisography](https://gratisography.com/)
++ [Illlustrations](https://illlustrations.co/)
 + [Image Base](https://www.imagebase.net/)
 + [Kaboom Pics](https://kaboompics.com/)
 + [Libre Stock](https://librestock.com/)
@@ -133,6 +185,7 @@
 
 ### Inspiration/Design
 
++ [Adaptiff](https://adaptiff.com/)
 + [Awwwards](https://www.awwwards.com/)
 + [Dribbble](https://dribbble.com/)
 + [Muz.li](https://search.muz.li/)
@@ -142,27 +195,13 @@
 
 + [florinpop17's App Ideas Repository](https://github.com/florinpop17/app-ideas)
 
-## Interviews
+## Interviews and Case Studies
 
 [](#interviews)
 
++ [growth.design Case Studies](https://growth.design/case-studies/)
 + [Project Hatch - Interviews with founders](https://www.projecthatch.co/interviews)
 + [Source Sort - Open source developer/maintainer interviews](https://sourcesort.com/)
-
-## Learning
-
-[](#learning)
-
-### Learning/General
-
-+ [edx.org](https://www.edx.org/)
-+ [MIT OpenCourseware](https://ocw.mit.edu/index.htm)
-
-### Learning/Programming
-
-#### Learning/Programming/Web Development
-
-+ [The Odin Project](https://www.theodinproject.com/)
 
 ## Math
 
@@ -172,10 +211,11 @@
 
 + [Evaluator - Desktop (Electron) Text-Based Calculator](https://evaluator.link/)
 
-## New Products
+## New Products and People
 
-[](#new-products)
+[](#new-products-and-people)
 
++ [Creator Spot](https://www.creatorspot.co/)
 + [Indie Hackers](https://www.indiehackers.com/)
 + [ProductHunt](https://www.producthunt.com/)
 + [Side Projects](https://sideprojects.net/)
@@ -186,6 +226,12 @@
 [](#office)
 
 + [LibreOffice](https://www.libreoffice.org/)
+
+## Open Source
+
+[](#open-source)
+
++ [Contrib - Find Open-source projects in need of contributors](https://gauger.io/contrib/#/)
 
 ## Other
 
@@ -206,9 +252,23 @@
 + [Awesome Design Tools](https://flawlessapp.io/designtools)
 + [Awesome Open-Source Apps](https://github.com/unicodeveloper/awesome-opensource-apps)
 + [awesomeopensource.com](https://awesomeopensource.com/)
++ [Awesome Visibility](https://github.com/dehenne/awesome-visibility)
++ [free-for.dev](https://free-for.dev/#/)
++ [MakerBlogs](http://makerblogs.io/)
++ [MakerHub](https://www.makerhub.app/)
++ [MakerMag](https://makermag.com/)
++ [MakerPodcasts](https://collections.podhunt.app/makers)
++ [Sky Design](https://github.com/y7usuf/sky-design)
 + [Tools for Makers](https://toolsformakers.com/)
 + [Undesign](https://undesign.learn.uno/)
++ [UXHunt](https://www.uxhunt.com/)
 + [Vincenius's Link List](https://github.com/Vincenius/link-list)
+
+## Startup-Related
+
+[](#startup-related)
+
++ [Road to Scale](https://roadtoscale.com/)
 
 ## Utility
 
@@ -221,6 +281,20 @@
 + [Pine Tools](https://pinetools.com/)
 + [Pomoday - Task Management](https://www.pomoday.com/)
 
+## Video
+
+[](#video)
+
+### Video/Editing
+
++ [Shotcut](https://www.shotcut.org/)
+
+## Web
+
+[](#web)
+
++ [FullPageScreenCapture](https://fullpagescreencapture.com/)
+
 ## Web Development
 
 [](#web-development)
@@ -232,8 +306,11 @@
 
 ### Web Development/Other
 
++ [App Libs List](https://applibslist.xyz/)
 + [CSS Minifier](https://cssminifier.com/)
++ [JS-TL;DR](http://js-tldr.info/)
 + [Responsive Breakpoints](https://www.responsivebreakpoints.com/)
++ [Developer Roadmaps](https://roadmap.sh/)
 
 ## Writing
 
