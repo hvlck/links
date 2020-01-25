@@ -1,12 +1,14 @@
 # uls
 
-**U**seful **Links** and **S**ervices
+**U**seful **Links** and **S**oftware (preferably open-source).
 
 ## Table of Contents
 
 + [3D Printing](#three-d-printing)
 + [Analytics](#analytics)
++ [Books](#books)
 + [Browser Extensions](#extensions)
++ [Design](#design)
 + [Developer Tools](#dev-tools)
 + [Education](#education)
 + [Feedback](#feedback)
@@ -19,12 +21,12 @@
 + [Office Software](#office)
 + [Open Source](#open-source)
 + [Other](#other)
++ [Podcasts](#podcasts)
 + [Self-Hosted](#self-hosted)
 + [Similar to this Repository](#similar)
 + [Startup-Related](#startup-related)
-+ [Utility](#utility)
++ [Tools](#tools)
 + [Video](#video)
-+ [Web](#web)
 + [Web Development](#web-development)
 + [Writing](#writing)
 
@@ -51,9 +53,22 @@
 
 + [Ackee](https://ackee.electerious.com/)
 + [Fathom](https://usefathom.com/)
++ [GoatCounter](https://www.goatcounter.com/)
 + [Plausible](https://plausible.io/)
 + [Simple Analytics](https://simpleanalytics.com/)
 
+## Books
+
+[](#books)
+
++ [free-programming-books - Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
++ ["A Graduate Course in
+Applied Cryptography" by Dan Boneh and Victor Shoup
+](https://toc.cryptobook.us/)
+
+### Books/Upkeep
+
++ [Open-Source] [BookNShelf - "Keep track of all your books online."](https://booknshelf.com/)
 
 ## Browser Extensions
 
@@ -61,7 +76,13 @@
 
 ## Design
 
+[](#design)
+
 + [colorsandfonts.com - Mutlipurpose design tools](https://colorsandfonts.com/)
++ [DesignBase - "DesignBase is a database of highly curated free resources for all designers."](https://www.felixjoy.co/designbase)
++ [DesignIndex - "A hand-picked directory of the best design resources and tools."](https://www.thedesignindex.co/)
++ [DesignNotes - "A free resource library for product designers."](https://www.designnotes.co/)
++ [LapaNinja Learn - Resources for learning design](https://www.lapa.ninja/learn/)
 
 ### Design/Animations
 
@@ -76,10 +97,16 @@
 + [LOLColors - Curated Color Palettes](https://www.webdesignrankings.com/resources/lolcolors/)
 + [Picular](https://picular.co/)
 
+### Design/Conferences
+
++ [All Design Conferences - "A simple collection of all design and front-end conferences for the year"](https://www.alldesignconferences.com/)
++ [UX Agenda - UX conferences, meetups and workshops in one place](https://uxagenda.com/)
+
 ### Design/Fonts
 
 + [Fontbase - Free Font Manager](https://fontba.se/)
 + [Google Fonts](https://fonts.google.com/)
++ [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ### Design/Gradients
 
@@ -106,6 +133,10 @@
 + [Public APIs](https://github.com/public-apis/public-apis)
 + [ToolsDB](https://toolsdb.dev/)
 
+### Developer Tools/Reference
+
++ [30 Seconds of Code - Code Snippets](https://www.30secondsofcode.org/)
+
 ## Education
 
 [](#education)
@@ -114,6 +145,7 @@
 
 ### Education/General
 
++ [Channels Stack - "Channels Stack is a hand-picked collection featuring the best educational channels across the largest video platform."](https://www.channelsstack.com/)
 + [edx.org](https://www.edx.org/)
 + [MIT OpenCourseware](https://ocw.mit.edu/index.htm)
 + [Yale Open Courses](https://oyc.yale.edu/)
@@ -189,11 +221,16 @@
 + [Awwwards](https://www.awwwards.com/)
 + [Dribbble](https://dribbble.com/)
 + [Muz.li](https://search.muz.li/)
++ [Sideway - "A community of designers showcasing published digital design work."](https://looksideway.com/)
 + [Webframe](https://webframe.xyz/)
 
 ### Inspiration/Ideas
 
 + [florinpop17's App Ideas Repository](https://github.com/florinpop17/app-ideas)
+
+### Inspiration/Portfolios
+
++ [humans.fyi - "Discover the most brilliant personal webpages online and the heros that designed them."](https://humans.fyi/)
 
 ## Interviews and Case Studies
 
@@ -239,6 +276,12 @@
 
 + [Calculate Your Website's Carbon Footprint](https://www.websitecarbon.com/)
 
+## Podcasts
+
+[](#podcasts)
+
++ [Podnami - "The best technology podcast episodes."](https://podnami.com/)
+
 ## Self-Hosted
 
 [](#self-hosted)
@@ -268,13 +311,15 @@
 
 [](#startup-related)
 
++ [Freemium] [MakerMove - Resources for makers and startup founders.](https://www.makermove.com/)
 + [Road to Scale](https://roadtoscale.com/)
 
-## Utility
+## Tools
 
-[](#utility)
+[](#tools)
 
 + [Firefox Send - Share Files Securely](https://send.firefox.com/)
++ [Open-Source] [Excalidraw - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them](https://excalidraw.com/)
 + [Just Delete Me - Instructions for Deleting Accounts](https://backgroundchecks.org/justdeleteme/)
 + [Just Give Me the D*mn Manual - Online Library of Manuals](https://justgivemethedamnmanual.com/)
 + [Manuals Lib - Online Library of Manuals](https://www.manualslib.com/)
@@ -289,28 +334,34 @@
 
 + [Shotcut](https://www.shotcut.org/)
 
-## Web
-
-[](#web)
-
-+ [FullPageScreenCapture](https://fullpagescreencapture.com/)
-
 ## Web Development
 
 [](#web-development)
 
+### Web Development/Conferences
+
++ [front-end-conferences - "This is a list of upcoming front-end related conferences."](https://github.com/frontendfront/front-end-conferences)
+
 ### Web Development/Icons
 
 + [Feather Icons](https://feathericons.com/)
-+ [Line Awesome - Flat Line Icons](https://icons8.com/line-awesome/howto)
++ [Gradientify - An interactive free SVG icons pack specially made for gradient lovers!](https://www.iconshock.com/svg-icons/)
++ [Line Awesome](https://icons8.com/line-awesome/)
 
 ### Web Development/Other
 
 + [App Libs List](https://applibslist.xyz/)
 + [CSS Minifier](https://cssminifier.com/)
++ [Heropatterns - "A collection of repeatable SVG background patterns for you to use on your web projects."](https://www.heropatterns.com/)
 + [JS-TL;DR](http://js-tldr.info/)
 + [Responsive Breakpoints](https://www.responsivebreakpoints.com/)
 + [Developer Roadmaps](https://roadmap.sh/)
+
+### Web Development/Tools
+
++ [Open-Source] [Browser Default Styles - "Find browser default styles"](https://browserdefaultstyles.com/)
++ [RealFaviconGenerator](https://realfavicongenerator.net/)
++ [Tiny Helpers - "A collection of free single-purpose online tools for web developers..."](https://tiny-helpers.dev/)
 
 ## Writing
 
