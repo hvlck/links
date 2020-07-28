@@ -1,13 +1,14 @@
-# uls
+# links
 
-**U**seful **Links** and **S**oftware (preferably open-source).
+useful links, preferably open-source
 
 ## Table of Contents
 
-+ [3D Printing](#three-d-printing)
-+ [Analytics](#analytics)
++ [3D Printing](#3d-printing)
++ [Audio](#audio)
++ [Blogs](#blogs)
 + [Books](#books)
-+ [Browser Extensions](#extensions)
++ [Browser Extensions](#browser-extensions)
 + [Design](#design)
 + [Developer Tools](#dev-tools)
 + [Education](#education)
@@ -23,9 +24,10 @@
 + [Other](#other)
 + [Podcasts](#podcasts)
 + [Privacy](#privacy)
++ [Rust](#rust)
 + [Security](#security)
 + [Self-Hosted](#self-hosted)
-+ [Similar to this Repository](#similar)
++ [Similar to this Repository](#similar-to-this-repository)
 + [Startup-Related](#startup-related)
 + [Tools](#tools)
 + [Video](#video)
@@ -49,24 +51,24 @@
 
 + [LayerKeep - 3D Projects with Version Control (Beta)](https://layerkeep.com/)
 
-## Analytics
+## Audio
 
-[](#analytics)
++ [AudioMass - Audio Editor](https://audiomass.co/)
 
-+ [Ackee](https://ackee.electerious.com/)
-+ [Fathom](https://usefathom.com/)
-+ [GoatCounter](https://www.goatcounter.com/)
-+ [Plausible](https://plausible.io/)
-+ [Simple Analytics](https://simpleanalytics.com/)
+## Blogs
+
++ [Devblogs](https://devblogs.co/)
 
 ## Books
 
 [](#books)
 
-+ [free-programming-books - Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 + ["A Graduate Course in
 Applied Cryptography" by Dan Boneh and Victor Shoup
 ](https://toc.cryptobook.us/)
++ [Eloquent JavaScript](https://eloquentjavascript.net/)
++ [Exploring JS: JavaScript books for programmers](https://exploringjs.com/) {partially free}
++ [free-programming-books - Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 
 ### Books/Upkeep
 
@@ -82,7 +84,7 @@ Applied Cryptography" by Dan Boneh and Victor Shoup
 
 [](#design)
 
-+ [colorsandfonts.com - Mutlipurpose design tools](https://colorsandfonts.com/)
++ [coloursandfonts.com - Multipurpose design tools](https://coloursandfonts.com/)
 + [DesignBase - "DesignBase is a database of highly curated free resources for all designers."](https://www.felixjoy.co/designbase)
 + [DesignIndex - "A hand-picked directory of the best design resources and tools."](https://www.thedesignindex.co/)
 + [DesignNotes - "A free resource library for product designers."](https://www.designnotes.co/)
@@ -94,17 +96,17 @@ Applied Cryptography" by Dan Boneh and Victor Shoup
 + [Animista](https://animista.net/)
 + [Animockup](https://animockup.com/)
 
-### Design/Colors
+### Design/colours
 
-+ [BrandColors](https://brandcolors.net/)
-+ [cloudflare.design color tool](https://cloudflare.design/color)
-+ [ColorBox](https://www.colorbox.io/)
-+ [ColorPicker - Desktop Color Picker App](https://colorpicker.crea-th.at/)
-+ [Color Designer](https://colordesigner.io/)
-+ [Color Influencer](https://colorinflu.com/)
-+ [Colors Interactor](https://colors.learn.uno/)
-+ [LOLColors - Curated Color Palettes](https://www.webdesignrankings.com/resources/lolcolors/)
-+ [mycolor.space](https://mycolor.space/)
++ [Brandcolours](https://brandcolours.net/)
++ [cloudflare.design colour tool](https://cloudflare.design/colour)
++ [colourBox](https://www.colourbox.io/)
++ [colourPicker - Desktop colour Picker App](https://colourpicker.crea-th.at/)
++ [colour Designer](https://colourdesigner.io/)
++ [colour Influencer](https://colourinflu.com/)
++ [colours Interactor](https://colours.learn.uno/)
++ [LOLcolours - Curated colour Palettes](https://www.webdesignrankings.com/resources/lolcolours/)
++ [mycolour.space](https://mycolour.space/)
 + [Picular](https://picular.co/)
 
 ### Design/Conferences
@@ -149,6 +151,7 @@ Applied Cryptography" by Dan Boneh and Victor Shoup
 + [Flashcards for Developers](https://www.flashcardsfordevelopers.com/)
 + [Git Basics Cheatsheet](https://gitbasics.xyz/)
 + [I Hate Regex](https://ihateregex.io/)
++ [Linux Man Pages -- Dash Dash](https://dashdash.io/)
 + [tldr.sh](https://tldr.sh/)
 
 ### Developer Tools/RegEx
@@ -338,6 +341,17 @@ Applied Cryptography" by Dan Boneh and Victor Shoup
 + [personal-security-checklist (Repo)](https://github.com/Lissy93/personal-security-checklist)
 + [Privacy for the Paranoid (Repo)](https://github.com/adilmajid/privacy-for-the-paranoid)
 
+## Rust
+
+### Rust/Books
+
++ [Introduction - Create Your Own Programming Language with Rust](https://createlang.rs/)
+
+### Rust/Reference
+
++ [caniuse.rs | Rust feature search](https://caniuse.rs/)
++ [Rust Language Cheat Sheet](https://cheats.rs/)
+
 ## Security
 
 [](#security)
@@ -366,6 +380,7 @@ Applied Cryptography" by Dan Boneh and Victor Shoup
 + [DesignValley](https://www.designvalley.club/)
 + [DevBreak](https://devbreak.fr/)
 + [free-for.dev](https://free-for.dev/#/)
++ [GitHub - cdterry87/Resources: My compiled list of web development resources.](https://github.com/cdterry87/Resources)
 + [MakerBlogs](http://makerblogs.io/)
 + [MakerHub](https://www.makerhub.app/)
 + [MakerLog](https://getmakerlog.com/)
@@ -391,9 +406,9 @@ Applied Cryptography" by Dan Boneh and Victor Shoup
 
 [](#tools)
 
-+ [Firefox Send - Share Files Securely](https://send.firefox.com/)
 + [Open-Source] [Excalidraw - Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them](https://excalidraw.com/)
-+ [Just Delete Me - Instructions for Deleting Accounts](https://backgroundchecks.org/justdeleteme/)
++ [Firefox Send - Share Files Securely](https://send.firefox.com/)
++ [CyberChef](https://gchq.github.io/CyberChef/)+ [Just Delete Me - Instructions for Deleting Accounts](https://backgroundchecks.org/justdeleteme/)
 + [Just Give Me the D*mn Manual - Online Library of Manuals](https://justgivemethedamnmanual.com/)
 + [kinopio.club](https://kinopio.club/)
 + [Manuals Lib - Online Library of Manuals](https://www.manualslib.com/)
@@ -416,6 +431,7 @@ Applied Cryptography" by Dan Boneh and Victor Shoup
 
 ### Web Development/Accessibility
 
++ [Welcome to the Accessibility Developer Guide! - ADG](https://www.accessibility-developer-guide.com/)
 + [WhoCanUse](https://whocanuse.com/)
 
 ### Web Development/Conferences
@@ -452,10 +468,13 @@ Applied Cryptography" by Dan Boneh and Victor Shoup
 + [30 Seconds of Code - Code Snippets](https://www.30secondsofcode.org/)
 + [Can I Use](https://caniuse.com/)
 + [cheatsheets.dev](https://cheatsheets.dev/)
++ [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
++ [HTML Reference - A free guide to all HTML elements and attributes.](https://htmlreference.io/)
 
 ### Web Development/Tools
 
 + [Open-Source] [Browser Default Styles - "Find browser default styles"](https://browserdefaultstyles.com/)
++ [Keyframes.app](https://keyframes.app/)
 + [RealFaviconGenerator](https://realfavicongenerator.net/)
 + [Tiny Helpers - "A collection of free single-purpose online tools for web developers..."](https://tiny-helpers.dev/)
 
